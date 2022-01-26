@@ -1,5 +1,5 @@
 # Scraping
-Este proyecto consiste en un software desarrollado bajo la plataforma Java que permite cumplir varios requerimiento, que son los siguientes: 
+Este proyecto consiste en un software de escritorio desarrollado bajo la plataforma Java que permite alcanzar los siguientes requerimientos: 
   1. El sistema debe permitir la opción de registrar, en memoria secundaria, un conjunto de correos electrónicos para enviar la información generada por el software.  
   2. Se debe permitir la opción de realizar scraping al contenido de los diferentes PDF anexados. 
   3. Los datos obtenidos del scraping deben ser migrados a un archivo en Excel. 
