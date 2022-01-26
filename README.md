@@ -6,4 +6,4 @@ Este proyecto consiste en un software de escritorio desarrollado bajo la platafo
   4. El sistema debe permitir la opción de enviar el archivo en Excel generado a cada uno de los correos almacenados previamente.
  
 Para el desarrollo del proyecto hice uso de librerias para el manejo de archivos CSV, envio de correos electronicos, gestion de arhivos pdf y tecnicas de OCR (Reconomiento óptico de Caracteres). Para el uso de OCR me apoyé del software Tesseract-OCR.
-Vale mencionar que el proyecto implementa el patron de diseño MVC
+Vale mencionar que el proyecto implementa el patron de diseño MVC.
